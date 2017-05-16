@@ -4,5 +4,6 @@ import { render } from 'react-dom'
 
 render(<div>
   what up, homies!
-</div>, 
+</div>,
 window.app)
+
