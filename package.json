@@ -29,5 +29,6 @@
     "stylis": "^2.0.11",
     "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
-  }
+  },
+  "repository": "git@github.com:cwonrails/css-in-js-workshop.git"
 }
